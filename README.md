@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ricardo.👋
 
 - 🔭 Hoje trabalho com Java e Angular
-- 🌱 Typescript/Angular
+- 🌱 Estudando Typescript/Angular/Spring
 
 <div align="center">
   <a href="https://github.com/R-Lourenco1998">
